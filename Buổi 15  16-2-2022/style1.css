@@ -1,0 +1,72 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.container{
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    margin-top: 5%;
+
+    display: grid;
+    grid-template-areas: 
+    "header" "header" "header" "header"
+    "menu" "menu" "menu" "menu"
+    "tab1" "tab2" "tab3" "tab4"
+    "Content" "Content" "Content" "Banner1"
+    "Content" "Content" "Content" "Banner1"
+    "Content" "Content" "Content" "Banner2"
+    "Content" "Content" "Content" "Banner2";
+    
+
+}
+
+.item-1{
+    background-color: black;
+    grid-area: header;
+}
+
+.item-2{
+    background-color: brown;
+    grid-area: menu;
+}
+
+.item-3{
+    background-color: red;
+   
+}
+
+.item-4{
+    background-color: orange;
+    
+}
+
+.item-5{
+    background-color: yellow;
+    
+}
+
+.item-6{
+    background-color: green;
+    
+}
+
+.item-7{
+    background-color: blue;
+    
+}
+
+.item-8{
+    background-color: purple;
+    
+}
+
+.item-9{
+    background-color: pink;
+    
+}

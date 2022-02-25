@@ -12,13 +12,13 @@ header{
 }
 
 .section-1{
-    height: 92%;
+    height: 85%;
     width: 100%;
 }
 
 .section-2{
     background-color: green;
-    height: 92%;
+    height: 50%;
     width: 100%;
 }
 header img{
@@ -80,4 +80,16 @@ color: white;
     text-align: right;
     padding-top: 10%;
 
+}
+
+.section-2 img{
+
+}
+
+.section-2 div{
+
+}
+
+.section-2 div p{
+    
 }
