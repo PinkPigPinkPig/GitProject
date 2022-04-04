@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T12:42:31.841Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="17.4.0" etag="4dglJ_7a1jVsMrxfHtXd" type="github"><diagram id="QoQoGLrnRHv7LjWpkKgA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-04T12:49:51.957Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="cQxewAEYWR8Hc1DW5DHz" version="17.4.0" type="github">
+  <diagram id="QoQoGLrnRHv7LjWpkKgA" name="Page-1">
+    <mxGraphModel dx="813" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FtGXIsgAYuO3rEhih-qk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FtGXIsgAYuO3rEhih-qk-1" target="FtGXIsgAYuO3rEhih-qk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtGXIsgAYuO3rEhih-qk-1" value="BEGIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FtGXIsgAYuO3rEhih-qk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FtGXIsgAYuO3rEhih-qk-2" target="FtGXIsgAYuO3rEhih-qk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtGXIsgAYuO3rEhih-qk-2" value="INPUT: MATH, PHYSICS, CHEMISTRY" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FtGXIsgAYuO3rEhih-qk-4" value="AVG = (MATH + PHYSICS + CHEMISTRY)/3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="390" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
